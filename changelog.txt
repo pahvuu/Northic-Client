@@ -1,0 +1,14 @@
+# Version 2.4.1
+Smoother and **more optimized**
+
+New **UI**
+
+Added **HUD mods**
+
+**Fixed** many **bugs**
+
+Added **continue button** for singleplayer
+
+Added **account switcher**
+
+Added **time** in top left
