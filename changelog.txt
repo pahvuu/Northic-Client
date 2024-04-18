@@ -11,6 +11,4 @@ Added **account switcher**
 
 Added **time** in top left
 
-Added **Singleplayer** button
-
-
+Added **mod installer**
